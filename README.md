@@ -74,7 +74,6 @@ The verification report reflects checks recorded on the verification date. It is
 | [e.g., EC2 / Elastic Beanstalk / Amplify] | [Hosting the app] |
 | [e.g., S3] | [Storing uploaded device images / generated reports] |
 | [e.g., Lambda] | [Report generation or other serverless tasks] |
-| [other] | [purpose] |
 
 > Replace the rows above with the AWS services you actually use, and delete any you don't.
 
@@ -121,7 +120,6 @@ cd client && npm run dev
 
 Open the URL shown in the terminal (usually `http://localhost:5173`).
 
-> Adjust folder names and commands to match your repository.
 
 ## Project Structure
 
