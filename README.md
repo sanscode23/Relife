@@ -4,8 +4,8 @@
 
 RE:LIFE helps people decide what to do with an old, damaged, slow or unwanted electronic device. Instead of pushing everything to recycling, it recommends the best next step, makes transfers safer with a data-safety checklist, and produces a verification report that builds trust in second-hand devices.
 
-**Demo video:** [YouTube link]
-**Live app (if hosted):** [URL]
+
+**Live app (if hosted):** [https://staging.d20bqmsdb74o6q.amplifyapp.com/]
 
 ---
 
